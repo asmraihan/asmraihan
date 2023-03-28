@@ -51,12 +51,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
    </table>
 </p>
 
-## ❤ Views and Followers
+### ❤ Views and Followers
 
-<a href="https://github.com/coddermoon/github-profile-views-counter">
+<a href="https://github.com/asmraihan/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=asmraihan"  height="30">
 </a>
-<a href="https://github.com/coddermoon?tab=followers">
+<a href="https://github.com/asmraihan?tab=followers">
 <img src="https://img.shields.io/github/followers/asmraihan?label=Followers&style=social" alt="GitHub Badge"  height="30"></a><br/>
 
 <br> <br/>
