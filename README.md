@@ -44,9 +44,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <p align="center">
    <table>
    <h1 align="center">Github Badges</h1>
-       <tr>
-       <td><a href="https://github.com/asmraihan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmraihan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></td>
-       <td><img alt="asmraihan :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmraihan&langs_count=14&theme=dark&layout=compact&hide=html"> </td>
+       <tr align="center">
+       <td><img alt="asmraihan :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmraihan&langs_count=14&theme=dark&layout=compact&hide=html">
+        </td>
+       <td><a href="https://github.com/asmraihan" align="left"><img src="https://streak-stats.demolab.com/?user=asmraihan&langs_count=14&theme=dark&layout=compact&hide=html" alt="Top Languages" /></a></td>
      </tr>
    </table>
 </p>
@@ -62,6 +63,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <br> <br/>
 <!-- random quote -->
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 <br>
 
