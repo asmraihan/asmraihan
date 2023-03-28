@@ -1,15 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Raihan
 ==============================================================================================================================
 
-Front-End Developer, Designer
 -------------------
 
-Learner at web development.
+## 🌱 I’m currently learning MERN Stack Development
 * 🌍  From Bangladesh
+* 💬 Ask me about **Web Solutions**
 * ✉️  You can contact me at [asmraihanctg14@gmail.com](mailto:asmraihanctg14@gmail.com)
 
-### Skills
-
+# <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='20'/> Skills
 
 <p align="center">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -27,16 +26,41 @@ Learner at web development.
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+<br/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/asmraihan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="asmraihan" height="30" width="40" /></a>
+<a href="https://dev.to/asmraihan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="asmraihan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/asmraihan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asmraihan" height="30" width="40" /></a>
+<a href="https://fb.com/asmraihan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asmraihan" height="30" width="40" /></a>
+<a href="https://medium.com/asmraihan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="asmraihan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/asmraihan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="asmraihan" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/asmraihan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="asmraihan" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/asmraihan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asmraihan" height="30" width="40" /></a>
+<a href="https://discord.gg/asmraihan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="asmraihan" height="30" width="40" /></a>
+</p>
 
-### Socials
+<br/>
+<p align="center">
+   <table>
+   <h1 align="center">Github Badges</h1>
+       <tr>
+       <td><a href="https://github.com/asmraihan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmraihan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></td>
+       <td><img alt="asmraihan :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmraihan&langs_count=14&theme=dark&layout=compact&hide=html"> </td>
+     </tr>
+   </table>
+</p>
 
-<p align="left"> <a href="https://www.codepen.io/asmraihan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/asmraihanbh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/asmraihan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/abu-saleh-md-raihan-61421022b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/@asm_raihan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+## ❤ Views and Followers
 
-![Profile views](https://gpvc.arturio.dev/asmraihan)
+<a href="https://github.com/coddermoon/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=asmraihan"  height="30">
+</a>
+<a href="https://github.com/coddermoon?tab=followers">
+<img src="https://img.shields.io/github/followers/asmraihan?label=Followers&style=social" alt="GitHub Badge"  height="30"></a><br/>
 
-
-### Badges
-
-<a href="https://github.com/asmraihan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmraihan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!-- random quote -->
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
