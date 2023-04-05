@@ -1,10 +1,12 @@
 <!-- Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) -->
 Hi ! <img src = "https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width='40'/>
-==============================================================================================================================
+======================================================================================================================
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=44&duration=4000&pause=100&color=2C99C9&center=true&vCenter=true&width=1024&height=96&lines=It's+Raihan;MERN+Stack+developer.;IT+Specialist.;Web+Application+Designer%2FDeveloper)](https://git.io/typing-svg)
+========
+
 
 -------------------
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&duration=4000&pause=100&color=2C99C9&center=true&width=435&lines=It's+Raihan;MERN+Stack+developer.;IT+Specialist.;Web+Application+Designer%2FDeveloper)](https://git.io/typing-svg)
-
 ## 🌱 I’m currently learning MERN Stack Development
 * 🌍  From Bangladesh
 * 💬 Ask me about **Web Solutions**
