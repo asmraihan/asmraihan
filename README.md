@@ -3,7 +3,8 @@ Hi ! <img src = "https://user-images.githubusercontent.com/18350557/176309783-07
 ==============================================================================================================================
 
 -------------------
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=neuropol&color=%000FFF&size=24&lines=It's+Raihan.;MERN+Stack+developer.;IT+Specialist.;Web+Designer+/+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&duration=4000&pause=100&color=2C99C9&center=true&width=435&lines=It's+Raihan;MERN+Stack+developer.;IT+Specialist.;Web+Application+Designer%2FDeveloper)](https://git.io/typing-svg)
+
 ## 🌱 I’m currently learning MERN Stack Development
 * 🌍  From Bangladesh
 * 💬 Ask me about **Web Solutions**
