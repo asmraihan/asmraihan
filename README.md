@@ -1,8 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Raihan
+<!-- Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) -->
+Hi ! <img src = "https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width='40'/>
 ==============================================================================================================================
 
 -------------------
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=neuropol&color=%000FFF&size=24&lines=It's+Raihan.;MERN+Stack+developer.;IT+Specialist.;Web+Designer+/+Developer)](https://git.io/typing-svg)
 ## 🌱 I’m currently learning MERN Stack Development
 * 🌍  From Bangladesh
 * 💬 Ask me about **Web Solutions**
@@ -47,6 +48,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
        <tr align="center">
        <td><img alt="asmraihan :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmraihan&langs_count=14&theme=dark&layout=compact&hide=html">
         </td>
+       <!-- <td><img alt="asmraihan :: Top Langs]" src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=asmraihan&theme=dark&hide_border=false&langs_count=8&layout=compact&count_private=true">
+        </td> -->
        <td><a href="https://github.com/asmraihan" align="left"><img src="https://streak-stats.demolab.com/?user=asmraihan&langs_count=14&theme=dark&layout=compact&hide=html" alt="Top Languages" /></a></td>
      </tr>
    </table>
