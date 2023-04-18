@@ -10,11 +10,13 @@ Hi ! <img src = "https://user-images.githubusercontent.com/18350557/176309783-07
 ## 🌱 I’m currently learning MERN Stack Development
 * 🌍  From Bangladesh
 * 💬 Ask me about **Web Solutions**
-* ✉️  You can contact me at [asmraihanctg14@gmail.com](mailto:asmraihanctg14@gmail.com)
+<!-- * ✉️  You can contact me at [asmraihanctg14@gmail.com](mailto:asmraihanctg14@gmail.com) -->
 
 # <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='20'/> Skills
 
+
 <p align="center">
+
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -31,7 +33,7 @@ Hi ! <img src = "https://user-images.githubusercontent.com/18350557/176309783-07
 </p>
 
 <br/>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">✉️ Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/asmraihan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="asmraihan" height="30" width="40" /></a>
 <a href="https://dev.to/asmraihan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="asmraihan" height="30" width="40" /></a>
@@ -44,10 +46,19 @@ Hi ! <img src = "https://user-images.githubusercontent.com/18350557/176309783-07
 <a href="https://discord.gg/asmraihan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="asmraihan" height="30" width="40" /></a>
 </p>
 
-<br/>
+Email: asmraihanctg14@gmail.com<br>
+Website: https://raihan.dev <br>
+LinkedIn: https://www.linkedin.com/in/abu-saleh-md-raihan-61421022b/<br>
+Facebook: https://www.facebook.com/asmraihanbh/<br><!-- Company WEB: https://.com.bd/ <br> -->
+WhatsApp: +8801630490203<br>
+
+
+--------
+
+<details open="">
+  <summary><b>📈 GitHub Stats</b></summary>
 <p align="center">
    <table>
-   <h1 align="center">Github Badges</h1>
        <tr align="center">
        <td><img alt="asmraihan :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmraihan&langs_count=14&theme=dark&layout=compact&hide=html">
         </td>
@@ -56,8 +67,56 @@ Hi ! <img src = "https://user-images.githubusercontent.com/18350557/176309783-07
        <td><a href="https://github.com/asmraihan" align="left"><img src="https://streak-stats.demolab.com/?user=asmraihan&langs_count=14&theme=dark&layout=compact&hide=html" alt="Top Languages" /></a></td>
      </tr>
    </table>
+    <a href="https://github.com/mikyll/mikyll"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
 </p>
+</details>
 
+<details>
+  <summary><b>🖥️ Best Projects I've Worked On</b></summary>
+  
+  <h3>Loading.....</h3>
+  <br/>
+  <p align="center">
+    Watch me, <a href="https://www.youtube.com/c/asmraihan">Asm Raihan</a> on YouTube!
+  </p>
+</details>
+
+<details>
+  <summary><b>📊 My Programming Stats</b></summary>
+  
+  <br/>
+
+![Code Time](http://img.shields.io/badge/Code%20Time-144%20hrs%2032%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24%20Thousand%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    76 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.23% 
+🌆 Daytime    279 commits    ███████░░░░░░░░░░░░░░░░░░   30.19% 
+🌃 Evening    259 commits    ███████░░░░░░░░░░░░░░░░░░   28.03% 
+🌙 Night      310 commits    ████████░░░░░░░░░░░░░░░░░   33.55%
+
+```
+
+ Last Updated on 19/04/2023 01:37:50 BDT
+
+  
+</details>
+
+<details>
+  <summary><b>🧐 More about me</b></summary>
+  
+  ### 🔎 Interests
+  - 👾 Anime, top 3: Steins;Gate, Attack on Titans, Vinland
+  - ❓ Problem solving
+  - 🕹️ Old consoles (GameBoy Advance, PS2)
+  - 🌱 Nature, Specially Sea Beach.
+
+</details>
+ <br/>
+ 
 ### ❤ Views and Followers
 
 <a href="https://github.com/asmraihan/github-profile-views-counter">
