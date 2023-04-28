@@ -67,17 +67,17 @@ WhatsApp: [+880-163-0490203](tel:+880-163-0490203)<br>
        <td><a href="https://github.com/asmraihan" align="left"><img src="https://streak-stats.demolab.com/?user=asmraihan&langs_count=14&theme=dark&layout=compact&hide=html" alt="Top Languages" /></a></td>
      </tr>
    </table>
-    <a href="https://github.com/mikyll/mikyll"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
+
 </p>
 </details>
 
 <details>
-  <summary><b>🖥️ Best Projects I've Worked On</b></summary>
+  <summary><b>🖥️ Projects I've Worked On</b></summary>
   
   <h3>Loading.....</h3>
   <br/>
   <p align="center">
-    Watch me, <a href="https://www.youtube.com/c/asmraihan">Asm Raihan</a> on YouTube!
+    Watch me, <a href="https://www.youtube.com/@asm_raihan">Asm Raihan</a> on YouTube!
   </p>
 </details>
 
@@ -93,14 +93,14 @@ WhatsApp: [+880-163-0490203](tel:+880-163-0490203)<br>
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    76 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.23% 
-🌆 Daytime    279 commits    ███████░░░░░░░░░░░░░░░░░░   30.19% 
+🌞 Morning    55 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.23% 
+🌆 Daytime    179 commits    ████░░░░░░░░░░░░░░░░░░░░░   30.19% 
 🌃 Evening    259 commits    ███████░░░░░░░░░░░░░░░░░░   28.03% 
 🌙 Night      310 commits    ████████░░░░░░░░░░░░░░░░░   33.55%
 
 ```
 
- Last Updated on 19/04/2023 01:37:50 BDT
+ Last Updated on 28/04/2023 01:37:50 BDT
 
   
 </details>
@@ -112,7 +112,7 @@ WhatsApp: [+880-163-0490203](tel:+880-163-0490203)<br>
   - 👾 Anime, top 3: Steins;Gate, Attack on Titans, Vinland
   - ❓ Problem solving
   - 🕹️ Old consoles (GameBoy Advance, PS2)
-  - 🌱 Nature, Specially Sea Beach.
+  - 🌱 Nature, Specially Beach.
 
 </details>
  <br/>
@@ -128,6 +128,7 @@ WhatsApp: [+880-163-0490203](tel:+880-163-0490203)<br>
 <br> <br/>
 <!-- random quote -->
 ### ✍️ Random Dev Quotes
-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-<br>
+ ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+
+-------------------
