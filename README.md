@@ -46,11 +46,11 @@ Hi ! <img src = "https://user-images.githubusercontent.com/18350557/176309783-07
 <a href="https://discord.gg/asmraihan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="asmraihan" height="30" width="40" /></a>
 </p>
 
+Website: [raihan.me](https://portfolio-asm-vthreejs.netlify.app/) <br>
 Email: asmraihanctg14@gmail.com<br>
-Website: https://raihan.dev <br>
-LinkedIn: https://www.linkedin.com/in/abu-saleh-md-raihan-61421022b/<br>
+LinkedIn: https://www.linkedin.com/in/asmraihan/<br>
 Facebook: https://www.facebook.com/asmraihanbh/<br><!-- Company WEB: https://.com.bd/ <br> -->
-WhatsApp: +8801630490203<br>
+WhatsApp: [+880-163-0490203](tel:+880-163-0490203)<br>
 
 
 --------
@@ -127,7 +127,7 @@ WhatsApp: +8801630490203<br>
 
 <br> <br/>
 <!-- random quote -->
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quotes
 - ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 <br>
 
