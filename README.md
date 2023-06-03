@@ -12,6 +12,7 @@ Hi ! <img src = "https://user-images.githubusercontent.com/18350557/176309783-07
 * 💬 Ask me about **Web Solutions**
 <!-- * ✉️  You can contact me at [asmraihanctg14@gmail.com](mailto:asmraihanctg14@gmail.com) -->
 
+<br clear="both">
 
 # <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='20'/> Skills
 
@@ -47,12 +48,9 @@ Hi ! <img src = "https://user-images.githubusercontent.com/18350557/176309783-07
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" width="52" alt="materialui logo"  />
 </div>
 <br clear="both">
-<br clear="both">
 
 
-
-<br/>
-<h3 align="left">✉️ Connect with me:</h3>
+<h2 align="left">✉️ Connect with me:</h2>
 <p align="left">
 <a href="https://codepen.io/asmraihan" target="blank"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="asmraihan" /></a>
 <a href="https://dev.to/asmraihan" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="asmraihan" /></a>
@@ -71,10 +69,10 @@ Email: asmraihanctg14@gmail.com<br>
 LinkedIn: https://www.linkedin.com/in/asmraihan/<br>
 Facebook: https://www.facebook.com/asmraihanbh/<br><!-- Company WEB: https://.com.bd/ <br> -->
 WhatsApp: [+880-163-0490203](tel:+880-163-0490203)<br>
-
+<br clear="both">
 
 --------
-
+<br clear="both">
 <details open="">
   <summary><b>📈 GitHub Stats</b></summary>
 <p align="center">
