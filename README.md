@@ -52,19 +52,20 @@ Hi ! <img src = "https://user-images.githubusercontent.com/18350557/176309783-07
 
 <h2 align="left">✉️ Connect with me:</h2>
 <p align="left">
-<a href="https://codepen.io/asmraihan" target="blank"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="asmraihan" /></a>
-<a href="https://dev.to/asmraihan" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="asmraihan" /></a>
-<a href="https://linkedin.com/in/asmraihan" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="asmraihan"/></a>
-<a href="https://fb.com/asmraihan" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="asmraihan"/></a>
-<a href="https://twitter.com/AsmRaihan4" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="asmraihan"/></a>
-<a href="https://medium.com/asmraihan" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="asmraihan"/></a>
-<a href="https://www.youtube.com/c/asmraihan" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="asmraihan" /></a>
-<a href="https://codeforces.com/profile/asmraihan" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="asmraihan"  /></a>
-<a href="https://www.leetcode.com/asmraihan" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="asmraihan" /></a>
-<a href="https://discord.gg/asmraihan" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="asmraihan"  /></a>
+<a href="https://linkedin.com/in/asmraihan" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="24" width="90" alt="asmraihan"/></a>
+<a href="https://fb.com/asmraihan" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="24" width="90"  alt="asmraihan"/></a>
+<a href="https://twitter.com/AsmRaihan4" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="24" width="90"  alt="asmraihan"/></a>
+<a href="https://discord.gg/asmraihan" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="24" width="90"  alt="asmraihan"  /></a>
+<a href="https://codepen.io/asmraihan" target="blank"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" height="24" width="90"  alt="asmraihan" /></a>
+<a href="https://dev.to/asmraihan" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" height="24" width="90"  alt="asmraihan" /></a>
+<a href="https://medium.com/asmraihan" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="24" width="90"  alt="asmraihan"/></a>
+<a href="https://www.youtube.com/c/asmraihan" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="24" width="90"  alt="asmraihan" /></a>
+<a href="https://codeforces.com/profile/asmraihan" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" height="24" width="90"  alt="asmraihan"  /></a>
+<a href="https://www.leetcode.com/asmraihan" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="24" width="90"  alt="asmraihan" /></a>
+
 </p>
 
-Website: [raihan.me](https://asmraihan.vercel.app//) <br>
+Website: [raihan.live](https://asmraihan.web.app//) <br>
 Email: asmraihanctg14@gmail.com<br>
 LinkedIn: https://www.linkedin.com/in/asmraihan/<br>
 Facebook: https://www.facebook.com/asmraihanbh/<br><!-- Company WEB: https://.com.bd/ <br> -->
@@ -78,10 +79,10 @@ WhatsApp: [+880-163-0490203](tel:+880-163-0490203)<br>
 <p align="center">
    <table>
        <tr align="center">
-       <td><img alt="asmraihan :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmraihan&langs_count=14&theme=dark&layout=compact&hide=html">
-        </td>
-       <!-- <td><img alt="asmraihan :: Top Langs]" src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=asmraihan&theme=dark&hide_border=false&langs_count=8&layout=compact&count_private=true">
+       <!-- <td><img alt="asmraihan :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmraihan&langs_count=14&theme=dark&layout=compact&hide=html">
         </td> -->
+       <td><img alt="asmraihan :: Top Langs]" src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=asmraihan&theme=dark&hide_border=false&langs_count=8&layout=compact&count_private=true">
+        </td>
        <td><a href="https://github.com/asmraihan" align="left"><img src="https://streak-stats.demolab.com/?user=asmraihan&langs_count=14&theme=dark&layout=compact&hide=html" alt="Top Languages" /></a></td>
      </tr>
    </table>
